@@ -9,3 +9,4 @@ langchain-text-splitters
 chromadb
 pypdf
 sentence-transformers
+protobuf==3.20.3
