@@ -10,3 +10,5 @@ chromadb
 pypdf
 sentence-transformers
 protobuf==3.20.3
+torch
+torchvision
