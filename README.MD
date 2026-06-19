@@ -124,6 +124,5 @@ These values can be tuned depending on the size and nature of the documents you 
 - Answers are only as good as the retrieved context; very large or poorly structured PDFs may require tuning the chunk size or retrieval parameters.
 - The app currently supports a single PDF at a time.
 
-## License
 
 This project is provided as-is for personal and educational use.
